@@ -24,6 +24,6 @@ A data analytics project using **Python**, **SQL**, **Power BI**, and **Jasperso
 
 ## 🖼️ Final Dashboard
 
-![Blinkit Dashboard](Dashboard Images/blinkit_dashboard.jpg)
+![Blinkit Dashboard](Dashboard%20Images/blinkit_dashboard.jpg)
 
 ---
